@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Grandnork
 - 👀 I’m interested in ... Python, C++, Web development(Javascript, HTML, CSS, PHP).
-- 🌱 I’m currently learning ... Django and Flask.
+- 🌱 I’m currently learning ... WebDev, Django, Flask.
 - 💞️ I’m looking to collaborate on ...  if i can help with it, just call me :).
 - 📫 How to reach me ... paulolopestr@yahoo.com or Discord - Grandnork#7191
 
