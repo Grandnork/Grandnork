@@ -32,8 +32,15 @@
 
 # Certifications
 <div display="flex">
-<img src="https://hermes.dio.me/tracks/977d1b41-5888-44d7-8e4c-57d2348748dc.png" width="100px">
-<img src="https://hermes.dio.me/courses/badge/995e9d14-99e8-4879-b978-b1d961f3ad88.png" width="100px">
+<img src="https://hermes.dio.me/tracks/977d1b41-5888-44d7-8e4c-57d2348748dc.png" width="100px" onclick="window.open(this.src)" role="button" tabIndex=0>
+<img src="https://hermes.dio.me/courses/badge/995e9d14-99e8-4879-b978-b1d961f3ad88.png" width="100px"><br><br>
+
+# Github Stats
+<div display="flex">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grandnork&layout=compact&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api?username=Grandnork&show_icons=true&theme=radical">
+</div>
+
 
 
 
