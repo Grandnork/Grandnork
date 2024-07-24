@@ -37,8 +37,8 @@
 
 # Github Stats
 <div display="flex">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grandnork&layout=compact&theme=radical" style="flex-basis:100%">
-<img src="https://github-readme-stats.vercel.app/api?username=Grandnork&show_icons=true&theme=radical" style="flex-basis:100%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grandnork&layout=compact&theme=radical" height=180rem>
+<img src="https://github-readme-stats.vercel.app/api?username=Grandnork&show_icons=true&theme=radical" height=180rem>
 </div>
 
 
