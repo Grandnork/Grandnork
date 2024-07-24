@@ -36,9 +36,9 @@
 <img src="https://hermes.dio.me/courses/badge/995e9d14-99e8-4879-b978-b1d961f3ad88.png" width="100px"><br><br>
 
 # Github Stats
-<div display="flex" flex-basis="auto">
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grandnork&layout=compact&theme=radical"></p>
-<p><img src="https://github-readme-stats.vercel.app/api?username=Grandnork&show_icons=true&theme=radical"></p>
+<div display="flex">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grandnork&layout=compact&theme=radical" style="flex-basis:100%">
+<img src="https://github-readme-stats.vercel.app/api?username=Grandnork&show_icons=true&theme=radical" style="flex-basis:100%">
 </div>
 
 
