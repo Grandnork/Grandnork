@@ -1,7 +1,7 @@
 # 👋 Hello, Welcome World 💻
 
 <div align="center">
-<img src="https://tenor.com/view/laptop-gif-26065234.gif">
+<img src="https://tenor.com/pt-BR/view/laptop-gif-26065234.gif">
 </div>
 
 ___
