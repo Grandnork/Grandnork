@@ -40,18 +40,3 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grandnork&layout=compact&theme=radical" height=180rem>
 <img src="https://github-readme-stats.vercel.app/api?username=Grandnork&show_icons=true&theme=radical" height=180rem>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-<!---
-Grandnork/Grandnork is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
