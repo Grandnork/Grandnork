@@ -1,7 +1,7 @@
 # 👋 Hello, Welcome World 💻
 
 <div align="center">
-<img src="https://tenor.com/view/business-cat-working-cat-boss-angry-gif-13655998.gif">
+<img src="https://tenor.com/view/business-cat-working-cat-boss-angry-gif-13655998.gif" width=60% height=200>
 </div>
 
 ___
