@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://tenor.com/pt-BR/view/laptop-gif-26065234">
+<img src="https://tenor.com/view/laptop-gif-26065234.gif" height=200 width=60%>
 </div>
 
 ___
