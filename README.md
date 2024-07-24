@@ -1,6 +1,7 @@
-<center><h2> 👋 Hello, Welcome World 💻</h2>
+<center><h2> 👋 Hello, Welcome World 💻</h2></center>
 
-<img src="https://media1.tenor.com/m/DimzPZMypFcAAAAC/laptop.gif" width=60% height=200px class="center"></center>
+<img src="https://media1.tenor.com/m/DimzPZMypFcAAAAC/laptop.gif" width=60% height=200px>
+
 ___
 ☔ Hi, my name is Paulo Lopes! I'm Brazilian, 24 years old.<br>
 📖 I'm a self-taught Programmer, always studying new courses to increase my knowledge.<br>
