@@ -39,8 +39,20 @@
 <div display="flex">
 <h2>Github Stats</h2>
 
-<p align="center">
-  <img src="https://github.spoko.space/stats?username=Grandnork&theme=radical" height="180em" width="49%">
-  <img src="https://github.spoko.space/langs?username=Grandnork&theme=radical" height="180em" width="49%">
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <img
+        src="https://github.spoko.space/stats?username=Grandnork&theme=radical"
+        width="100%"
+      />
+    </td>
+    <td width="50%">
+      <img
+        src="https://github.spoko.space/langs?username=Grandnork&theme=radical"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
 </div>
