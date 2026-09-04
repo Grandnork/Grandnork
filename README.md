@@ -40,7 +40,7 @@
 <h2>Github Stats</h2>
 
 <p align="center">
-  <img src="https://github.spoko.space/stats?username=Grandnork&theme=radical" height="180em">
-  <img src="https://github.spoko.space/langs?username=Grandnork&theme=radical" height="180em">
+  <img src="https://github.spoko.space/stats?username=Grandnork&theme=radical" height="180em" width="49%">
+  <img src="https://github.spoko.space/langs?username=Grandnork&theme=radical" height="180em" width="49%">
 </p>
 </div>
