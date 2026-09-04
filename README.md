@@ -37,6 +37,10 @@
 
 # Github Stats
 <div display="flex">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grandnork&layout=compact&theme=radical&hide_border=true" height="180em">
-<img src="https://github-readme-stats.vercel.app/api?username=Grandnork&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="180em">
+<h2>Github Stats</h2>
+
+<p align="center">
+  <img src="https://github.spoko.space/stats?username=Grandnork&theme=radical" height="180em">
+  <img src="https://github.spoko.space/langs?username=Grandnork&theme=radical" height="180em">
+</p>
 </div>
